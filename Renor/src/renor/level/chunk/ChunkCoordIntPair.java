@@ -10,6 +10,6 @@ public class ChunkCoordIntPair {
 	}
 
 	public static long chunkXZ2Int(int x, int z) {
-		return (long) x & 4294967295l | ((long) z & 4294967295l) << 32;
+		return (long) x & 0xffffffffl | ((long) z & 0xffffffffl) << 32;
 	}
 }
