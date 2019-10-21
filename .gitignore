@@ -1,0 +1,4 @@
+/bin/
+crash-reports/
+*.DS_Store
+output-client.log
