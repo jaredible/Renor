@@ -27,6 +27,3 @@ A 50% total remake of Minecraft.
 
 ### Game engine progress 9 (June 7, 2014)
 [![Game engine progress 9](https://img.youtube.com/vi/MnG4gLw-cpE/0.jpg)](https://www.youtube.com/watch?v=MnG4gLw-cpE "Game engine progress 9")
-
-### Playing around (June 13, 2014)
-[![Playing builder](https://img.youtube.com/vi/PQzqsN0syrI/0.jpg)](https://www.youtube.com/watch?v=PQzqsN0syrI "Playing builder")
