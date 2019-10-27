@@ -1,4 +1,4 @@
-# Renor (a one-month-challenge)
+# Renor (a one-month challenge)
 A Minecraft remake
 
 ### Game engine progress 1 (May 8, 2014)
