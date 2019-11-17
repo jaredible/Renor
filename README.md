@@ -1,9 +1,11 @@
 # Renor (a one-month challenge)
 A 50% total remake of Minecraft.
 
-<a href="https://www.youtube.com/watch?v=8tnQFq1_5FE" align="center">
-  <img src="https://img.youtube.com/vi/8tnQFq1_5FE/0.jpg" alt="Game engine progress 1">
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8tnQFq1_5FE">
+    <img src="https://img.youtube.com/vi/8tnQFq1_5FE/0.jpg" alt="Game engine progress 1">
+  </a>
+</p>
 
 ### Game engine progress 1 (May 8, 2014)
 [![Game engine progress 1](https://img.youtube.com/vi/8tnQFq1_5FE/0.jpg)](https://www.youtube.com/watch?v=8tnQFq1_5FE "Game engine progress 1")
