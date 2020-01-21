@@ -8,8 +8,12 @@ A 50% total remake of Minecraft.
   </a>
 </p>
 
-### Game engine progress 2 (May 9, 2014)
-[![Game engine progress 2](https://img.youtube.com/vi/FTscUFoGq-w/0.jpg)](https://www.youtube.com/watch?v=FTscUFoGq-w "Game engine progress 2")
+<h3 align="center">Game engine progress 2 (May 9, 2014)</h3>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=FTscUFoGq-w">
+    <img src="https://img.youtube.com/vi/FTscUFoGq-w/0.jpg" alt="Game engine progress 2">
+  </a>
+</p>
 
 ### Game engine progress 3 (May 15, 2014)
 [![Game engine progress 3](https://img.youtube.com/vi/Nj030jCnEKQ/0.jpg)](https://www.youtube.com/watch?v=Nj030jCnEKQ "Game engine progress 3")
